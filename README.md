@@ -9,10 +9,28 @@
 
 ### 💼 What I'm Working On
 
+- 🫁 **[3D Lung Segmentation with 3D U-Net](https://github.com/ozgurgumus0/3d-lung-segmentation)**  
+  Developed a 3D U-Net deep learning model for segmenting lung CT scans. Demonstrates practical use of volumetric data, PyTorch, and medical imaging workflows. Ideal for healthcare AI applications.
+
 - 🎥 **[Movie Recommendation AI Project](https://github.com/ozgurgumus0/Movie-Recommendation-AI)**  
   A deep dive into collaborative filtering, graph-based learning, and attention-based recommender systems with explainable AI.
 
 - 📸 De-raining Models for Computer Vision (with the GT-RAIN dataset and attention-based knowledge distillation)
+
+- 🤖 **[Anomaly Detection on MVTec Dataset](https://github.com/ozgurgumus0/mvtec-anomaly-detection)**  
+  Built a ResNet-based image anomaly detection system. Evaluated with ROC-AUC and confusion matrices. Demonstrates computer vision and defect detection in industrial settings.
+
+- 📦 **[Three-Echelon Transportation Optimization](https://github.com/ozgurgumus0/three-echelon-transportation-model)**  
+  Formulated and solved a supply chain optimization model using Python, PuLP, and the CBC solver. Includes custom cost generation and scenario analysis.
+
+- 💊 **[Drug Classification with ML Models](https://github.com/ozgurgumus0/drug-classification-ml-models)**  
+  Compared SVM, KNN, Decision Tree, Naive Bayes, and clustering techniques on a medical dataset. Strong demonstration of model evaluation and supervised learning.
+
+- 🔬 **[Thesis: Inventory Age Prediction](https://github.com/ozgurgumus0/inventory-age-prediction-esn)**  
+  Applied various ML models including Echo State Networks to predict inventory aging in warehouses. Real business use case in the FMCG sector with impressive results (R² = 0.85).
+
+- 🛰️ **[Remote Sensing with GEE](https://github.com/ozgurgumus0/remote-sensing-ndvi-analysis-earthengine)**  
+  Used Google Earth Engine and Sentinel-2 data to analyze vegetation patterns. Implemented Random Forest and SVM for land cover classification.
 
 - ⚖️ AI Ethics & Compliance: Exploring GDPR and the AI Act in real-world applications
 
