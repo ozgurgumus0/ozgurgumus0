@@ -9,7 +9,7 @@
 
 ### 💼 What I'm Working On
 
-- 🫁 **[3D Lung Segmentation with 3D U-Net]([https://github.com/ozgurgumus0/3d-lung-segmentation](https://github.com/ozgurgumus0/Deep-Learning-Based-3D-Lung-Segmentation))**  
+- 🫁 **[3D Lung Segmentation with 3D U-Net](https://github.com/ozgurgumus0/Deep-Learning-Based-3D-Lung-Segmentation)**  
   Developed a 3D U-Net deep learning model for segmenting lung CT scans. Demonstrates practical use of volumetric data, PyTorch, and medical imaging workflows. Ideal for healthcare AI applications.
 
 - 🎥 **[Movie Recommendation AI Project](https://github.com/ozgurgumus0/Movie-Recommendation-AI)**  
