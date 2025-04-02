@@ -17,7 +17,7 @@
 
 - 📸 De-raining Models for Computer Vision (with the GT-RAIN dataset and attention-based knowledge distillation)
 
-- 🤖 **[Anomaly Detection on MVTec Dataset]([https://github.com/ozgurgumus0/mvtec-anomaly-detection](https://github.com/ozgurgumus0/mvtec-anomaly-detection-resnet)**  
+- 🤖 **[Anomaly Detection on MVTec Dataset]([https://github.com/ozgurgumus0/mvtec-anomaly-detection](https://github.com/ozgurgumus0/mvtec-anomaly-detection-resnet))**  
   Built a ResNet-based image anomaly detection system. Evaluated with ROC-AUC and confusion matrices. Demonstrates computer vision and defect detection in industrial settings.
 
 - 📦 **[Three-Echelon Transportation Optimization](https://github.com/ozgurgumus0/three-echelon-transportation-model)**  
