@@ -15,7 +15,8 @@
 - 🎥 **[Movie Recommendation AI Project](https://github.com/ozgurgumus0/Movie-Recommendation-AI)**  
   A deep dive into collaborative filtering, graph-based learning, and attention-based recommender systems with explainable AI.
 
-- 📸 De-raining Models for Computer Vision (with the GT-RAIN dataset and attention-based knowledge distillation)
+- 📸 **[Attention-Based Knowledge Distillation](https://github.com/ozgurgumus0/attention-based-deraining))** 
+  De-raining Models for Computer Vision (with the GT-RAIN dataset and attention-based knowledge distillation)
 
 - 🤖 **[Anomaly Detection on MVTec Dataset](https://github.com/ozgurgumus0/mvtec-anomaly-detection-resnet)**  
   Built a ResNet-based image anomaly detection system. Evaluated with ROC-AUC and confusion matrices. Demonstrates computer vision and defect detection in industrial settings.
