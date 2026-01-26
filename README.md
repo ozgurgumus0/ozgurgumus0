@@ -53,6 +53,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ozgurgumus/)
 - 🧠 [Kaggle](https://www.kaggle.com/ozgurgumus)
-- ✉️ ozgurgumus@gmail.com
+- ✉️ ozgurgumus1344@gmail.com
 
 ---
