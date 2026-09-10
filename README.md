@@ -1,58 +1,39 @@
-# Hi there, I'm Ozgur 👋
+# Özgür Gümüş
 
-🎓 I'm currently pursuing a Master’s in Artificial Intelligence for Science and Technology at Università degli Studi di Milano.
+**Applied AI · Machine Learning · Data & Automation**
 
-🚀 I’m passionate about AI, data science, and building real-world solutions with a human touch.  
-📊 With a background in Industrial Engineering and Business Process Management, I love combining tech with strategic thinking.
+I build practical AI systems across computer vision, forecasting, recommender systems, analytics, and intelligent applications. My repositories combine research, experimentation, and implementation—from peer-reviewed medical-image segmentation to industrial anomaly detection and resilient API infrastructure.
 
----
+## Featured Work
 
-### 💼 What I'm Working On
+| Project | Focus | Technologies |
+|---|---|---|
+| [3D Lung Segmentation](https://github.com/ozgurgumus0/Deep-Learning-Based-3D-Lung-Segmentation) | Volumetric CT segmentation and associated IEEE publication | 3D U-Net, TensorFlow/Keras, medical imaging |
+| [Attention-Based De-Raining](https://github.com/ozgurgumus0/attention-based-deraining) | Teacher–student knowledge distillation for image restoration | PyTorch, Uformer, Swin Transformer |
+| [MVTec Anomaly Detection](https://github.com/ozgurgumus0/mvtec-anomaly-detection-resnet) | Visual defect detection for industrial quality control | ResNet, transfer learning, ROC-AUC |
+| [Movie Recommendation AI](https://github.com/ozgurgumus0/Movie-Recommendation-AI) | Neural, explainable, graph-based, and attention recommenders | PyTorch, SHAP, LIME, NetworkX |
+| [Inventory Age Prediction](https://github.com/ozgurgumus0/inventory-age-prediction-deep-learning) | Comparison of regression and sequence-learning models | ESN, LSTM, RNN, scikit-learn |
+| [Cloud API Gateway](https://github.com/ozgurgumus0/cloud-api-gateway) | Resilient microservices behind a centralized gateway | Traefik, Docker Compose, Flask |
 
-- 🫁 **[3D Lung Segmentation with 3D U-Net](https://github.com/ozgurgumus0/Deep-Learning-Based-3D-Lung-Segmentation)**  
-  Developed a 3D U-Net deep learning model for segmenting lung CT scans. Demonstrates practical use of volumetric data, PyTorch, and medical imaging workflows. Ideal for healthcare AI applications.
+## Additional Projects
 
-- 🎥 **[Movie Recommendation AI Project](https://github.com/ozgurgumus0/Movie-Recommendation-AI)**  
-  A deep dive into collaborative filtering, graph-based learning, and attention-based recommender systems with explainable AI.
+- [MongoDB Basketball Analytics](https://github.com/ozgurgumus0/nosql-basketball-analytics-mongodb) — document modeling and aggregation pipelines
+- [Remote Sensing with Google Earth Engine](https://github.com/ozgurgumus0/remote-sensing-ndvi-analysis-earthengine) — NDVI time series and land-cover classification
+- [Three-Echelon Transportation Optimization](https://github.com/ozgurgumus0/three-echelon-transportation-model) — supply-chain optimization with PuLP and CBC
+- [Personalized Echo Simulator](https://github.com/ozgurgumus0/echo-simulator) — multilingual voice interface using the Gemini Live API
 
-- 📸 **[Attention-Based Knowledge Distillation](https://github.com/ozgurgumus0/attention-based-deraining)** 
-  De-raining Models for Computer Vision (with the GT-RAIN dataset and attention-based knowledge distillation)
+## Technical Toolkit
 
-- 🤖 **[Anomaly Detection on MVTec Dataset](https://github.com/ozgurgumus0/mvtec-anomaly-detection-resnet)**  
-  Built a ResNet-based image anomaly detection system. Evaluated with ROC-AUC and confusion matrices. Demonstrates computer vision and defect detection in industrial settings.
+**AI/ML:** Python, PyTorch, TensorFlow/Keras, scikit-learn, computer vision, time series, explainable AI  
+**Data:** SQL, Pandas, NumPy, MongoDB, data visualization  
+**Engineering:** Docker, Traefik, REST APIs, Git, React, TypeScript
 
-- 📦 **[Three-Echelon Transportation Optimization](https://github.com/ozgurgumus0/three-echelon-transportation-model)**  
-  Formulated and solved a supply chain optimization model using Python, PuLP, and the CBC solver. Includes custom cost generation and scenario analysis.
+## Research
 
-- 💊 **[Drug Classification with ML Models](https://github.com/ozgurgumus0/drug-classification-ml-models)**  
-  Compared SVM, KNN, Decision Tree, Naive Bayes, and clustering techniques on a medical dataset. Strong demonstration of model evaluation and supervised learning.
+**Deep-Learning Based 3D Lung Segmentation** — IEEE ISDFS 2025  
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11011979) · [DOI](https://doi.org/10.1109/ISDFS65363.2025.11011979)
 
-- 🔬 **[Thesis: Inventory Age Prediction](https://github.com/ozgurgumus0/inventory-age-prediction-esn)**  
-  Applied various ML models including Echo State Networks to predict inventory aging in warehouses. Real business use case in the FMCG sector with impressive results (R² = 0.85).
+## Connect
 
-- 🛰️ **[Remote Sensing with GEE](https://github.com/ozgurgumus0/remote-sensing-ndvi-analysis-earthengine)**  
-  Used Google Earth Engine and Sentinel-2 data to analyze vegetation patterns. Implemented Random Forest and SVM for land cover classification.
+[LinkedIn](https://www.linkedin.com/in/ozgurgumus/) · [Kaggle](https://www.kaggle.com/ozgurgumus)
 
-- ⚖️ AI Ethics & Compliance: Exploring GDPR and the AI Act in real-world applications
-
----
-
-### 🛠️ Tech I Use
-
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-orange?logo=scikit-learn)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
-
----
-
-### 📫 Get in Touch
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ozgurgumus/)
-- 🧠 [Kaggle](https://www.kaggle.com/ozgurgumus)
-- ✉️ ozgurgumus1344@gmail.com
-
----
