@@ -31,6 +31,7 @@ Production work in performance marketing, published as anonymised versions (no d
 - [MongoDB Basketball Analytics](https://github.com/ozgurgumus0/nosql-basketball-analytics-mongodb) — document modeling and aggregation pipelines
 - [Remote Sensing with Google Earth Engine](https://github.com/ozgurgumus0/remote-sensing-ndvi-analysis-earthengine) — NDVI time series and land-cover classification
 - [Three-Echelon Transportation Optimization](https://github.com/ozgurgumus0/three-echelon-transportation-model) — supply-chain optimization with PuLP and CBC
+- [ESP32 Voice Assistant](https://github.com/ozgurgumus0/esp32-voice-assistant) — standalone embedded voice assistant with an animated persona, per-speaker memory and web search (ESP32-S3, Whisper, LLM, TTS)
 - [Personalized Echo Simulator](https://github.com/ozgurgumus0/echo-simulator) — multilingual voice interface using the Gemini Live API
 
 ## Technical Toolkit
