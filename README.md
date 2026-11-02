@@ -15,6 +15,17 @@ I build practical AI systems across computer vision, forecasting, recommender sy
 | [Inventory Age Prediction](https://github.com/ozgurgumus0/inventory-age-prediction-deep-learning) | Comparison of regression and sequence-learning models | ESN, LSTM, RNN, scikit-learn |
 | [Cloud API Gateway](https://github.com/ozgurgumus0/cloud-api-gateway) | Resilient microservices behind a centralized gateway | Traefik, Docker Compose, Flask |
 
+## Marketing Analytics & LLM Systems
+
+Production work in performance marketing, published as anonymised versions (no data, identifiers or business figures).
+
+| Project | Focus | Technologies |
+|---|---|---|
+| [LLM Call Scoring](https://github.com/ozgurgumus0/loi-call-scoring) | Scores sales and booking calls with an LLM rubric, then distils it into a fine-tuned open model for zero-cost daily scoring | Qwen, QLoRA, Whisper, Kaggle, Flask |
+| [Ads Automation](https://github.com/ozgurgumus0/ads-automation) | Daily multi-platform ad data pipeline with creative-performance and SEO/GEO dashboards | Meta / Google / TikTok / Outbrain APIs, Flask, Google Sheets, Apps Script |
+| [Agent Control Center](https://github.com/ozgurgumus0/agent-control-center) | Marketing agents for budget pacing, creative fatigue and call quality, queryable by an LLM | MCP, Python, JavaScript |
+| [AI Traffic Tracker](https://github.com/ozgurgumus0/ai-traffic-tracker) | Measures brand visibility inside AI chatbots and the traffic they send | GA4 Data API, OpenAI / Anthropic / Gemini APIs, Chart.js |
+
 ## Additional Projects
 
 - [MongoDB Basketball Analytics](https://github.com/ozgurgumus0/nosql-basketball-analytics-mongodb) — document modeling and aggregation pipelines
@@ -24,7 +35,7 @@ I build practical AI systems across computer vision, forecasting, recommender sy
 
 ## Technical Toolkit
 
-**AI/ML:** Python, PyTorch, TensorFlow/Keras, scikit-learn, computer vision, time series, explainable AI  
+**AI/ML:** Python, PyTorch, TensorFlow/Keras, scikit-learn, computer vision, time series, explainable AI, LLM fine-tuning (QLoRA), LLM agents & MCP  
 **Data:** SQL, Pandas, NumPy, MongoDB, data visualization  
 **Engineering:** Docker, Traefik, REST APIs, Git, React, TypeScript
 
